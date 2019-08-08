@@ -1,5 +1,5 @@
 # Guna.UI-ChatApp-DarkUI
-This is a Guna-Theme UI using most of Guna Framework Tools.
+Using most of Guna Framework Tools.
 
 Steps on getting started
 * Clone/Download Zip
